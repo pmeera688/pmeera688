@@ -1,4 +1,4 @@
-## # Hi, I'm Meera Patel 👋
+## Hi, I'm Meera Patel 👋
 
 I'm an **MS Computer Science graduate** with a strong interest in software development, databases, cloud technologies, and data-driven applications.
 
